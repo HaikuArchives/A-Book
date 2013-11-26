@@ -54,7 +54,7 @@ mainWindow::mainWindow(BRect frame, const char *title, float width, float height
 //		str->RemoveLast(path->Leaf());
 //		str->Append("dates.abook");
 		
-		mw_datesfolder=strdup("/boot/home/config/etc/dates.abook");
+		mw_datesfolder=strdup("/boot/home/config/settings/dates.a-book");
 //		printf("path=%s\n", mw_datesfolder);
 //		delete path;
 //		delete entry;
