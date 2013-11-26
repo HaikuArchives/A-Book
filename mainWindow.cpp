@@ -36,6 +36,7 @@ OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #include "PrefWin.h"
 #include <support/Beep.h>
 #include <Entry.h>
+#include <File.h>
 #include <Path.h>
 
 
