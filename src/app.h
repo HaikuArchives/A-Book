@@ -28,12 +28,12 @@ OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #define _APP_H_
 
 #include <Application.h>
-#include "mainWindow.h"
+#include "MainWindow.h"
 #include "ConfigManager.h"
 #include "PrefWin.h"
 
 #define AB_VERSION_NUMBER	"1.1"
-#define AB_ABOUT_TEXT		"A small calendar for the lovely BeOS. Do you like it? Why not send me a postcard? You can find my current address on my web site www.fetal.de.\n\nBug reports etc. to <moscht@gmx.de>."
+#define AB_ABOUT_TEXT		"A small calendar for the lovely Haiku."
 #define AB_BIG_WINDOW_SIZE	82
 #define AB_SMALL_WINDOW_SIZE	50
 

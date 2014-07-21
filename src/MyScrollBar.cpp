@@ -25,7 +25,7 @@ OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  
 */
 #include "MyScrollBar.h"
-#include "mainWindow.h"
+#include "MainWindow.h"
 
 
 MyScrollBar::MyScrollBar(     BRect frame, 

@@ -24,7 +24,7 @@ CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFT
 OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  
 */
-#include "mainWindow.h"
+#include "MainWindow.h"
 #include "BookTab.h"
 #include "TimeInfo.h"
 #include <stdio.h>

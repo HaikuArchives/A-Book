@@ -26,7 +26,7 @@ OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 #include "MainView.h"
 #include "TimeInfo.h"
-#include "mainWindow.h"
+#include "MainWindow.h"
 #include "BookTab.h"
 #include "MyScrollBar.h"
 

@@ -28,7 +28,7 @@ OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #include <support/ClassInfo.h>
 #include <String.h>
 #include "BookTab.h"
-#include "mainWindow.h"
+#include "MainWindow.h"
 #include "TimeInfo.h"
 #include "AppEditWindow.h"
 
