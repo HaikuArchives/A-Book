@@ -1,3 +1,4 @@
+![A-Book-icon](https://github.com/nishanth1232/A-Book/blob/master/images/A-Book-icon_32.png)
 # A-Book
 A small calendar application with reminders for Haiku.
 ## Features
@@ -19,10 +20,10 @@ A small calendar application with reminders for Haiku.
 
 Right click on a day to add, modify or remove an event of that day.
 
-![eventadder](https://user-images.githubusercontent.com/44456350/48668577-cd3dfe00-eb16-11e8-8315-47a89cb62799.png)
+![eventadder](https://github.com/nishanth1232/A-Book/blob/master/images/EventAdder.png)
 
 #### Preferences:
 
 The preferences window can be used to change the settings of A-Book for easier and efficient usage.
 
-![preferences](https://user-images.githubusercontent.com/44456350/48668581-f068ad80-eb16-11e8-9263-a71ab3dfb84b.png)
+![preferences](https://github.com/nishanth1232/A-Book/blob/master/images/Preferences.png)
