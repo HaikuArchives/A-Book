@@ -1,4 +1,4 @@
-![A-Book-icon](https://github.com/nishanth1232/A-Book/blob/master/images/A-Book-icon_32.png)
+![a-book-icon](https://github.com/nishanth1232/A-Book/blob/master/images/A-Book-icon_32.png)
 # A-Book
 A small calendar application with reminders for Haiku.
 ## Features
