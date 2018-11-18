@@ -6,7 +6,7 @@ A small calendar application with reminders for Haiku.
 * Filter events according to day, month or year.
 * Get reminders of an upcoming event on startup.
 #### Main Window:
-![mainwindow](https://user-images.githubusercontent.com/44456350/48668468-4be56c00-eb14-11e8-8c6f-6be9371a7df6.png)
+![mainwindow](https://github.com/nishanth1232/A-Book/blob/master/images/MainWindow.png)
 * MenuBar
   * File
     * About: Shows information.
